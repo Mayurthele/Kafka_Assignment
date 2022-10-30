@@ -1,2 +1,1 @@
-# Kafka_Assignment
-Kafka_Assignment
+Kafka_Assignment_1.docx has the Detail about task 
